@@ -46,11 +46,17 @@ Run the following command in the terminal:
 sudo apt update && sudo apt install -y wget && wget -qO- https://raw.githubusercontent.com/xiv3r/Burpsuite-Professional/main/install.sh | sudo bash
 ```
 
-## Step 5: Complete the Initial Setup
+### Step 5: Update the License Name
 
-After launching Burp Suite Professional, complete the initial setup by following the on-screen instructions.
+In the **License Text** field, replace the default name with your own system or username.
 
-Once the setup is complete, the application will proceed to the next screen.
+**Example:**
+
+Before:
+License to h3ll0w0rld
+
+After:
+License to dynoking
 
 ### Output
 ![Burp Suite Screenshot](WhatsApp%20Image%202026-07-26%20at%204.35.57%20AM.jpeg)
