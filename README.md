@@ -76,3 +76,15 @@ When the **Enter License Key** window appears, enter your valid Burp Suite Profe
 ![Enter License Key](screenshots/step6-enter-license-key.png)
 
 *Figure 6: Enter your Burp Suite Professional license key.*
+
+
+## Step 7: Manual Activation
+
+Click **Manual Activation**.
+
+> ⚠️ **Important:** Do **NOT** click **Next** by mistake.
+
+**Output:**
+
+![Enter License Key](screenshots/step6-enter-license-key.png)
+
