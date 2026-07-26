@@ -5,6 +5,7 @@
 ## Burpsuite-Professional − v 2026 − latest
 
 Step-by-step guide to install Burp Suite Professional on Kali Linux.
+Resolving License Issues
 
 ## Burp Suite Professional Installation Guide (Kali Linux)
 
