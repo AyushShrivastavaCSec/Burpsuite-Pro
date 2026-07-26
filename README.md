@@ -118,4 +118,14 @@ Once the activation is completed successfully, **Burp Suite Professional** will 
 
 ![Enter License Key](pic6.jpeg)
 
+## Step 11. Run Burp Suite Professional
+
+Open a terminal and run the following command:
+
+```bash
+sudo burpsuitepro
+```
+
+This will launch **Burp Suite Professional**.
+
 
