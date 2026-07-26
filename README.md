@@ -47,7 +47,7 @@ sudo apt update && sudo apt install -y wget && wget -qO- https://raw.githubuserc
 ```
 
 
-## Step 5: Update the License Name
+## Step 5: Update the License Text
 
 In the **License Text** field, replace the default name with your own system or username.
 
