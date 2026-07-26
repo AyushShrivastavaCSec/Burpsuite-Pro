@@ -2,13 +2,13 @@
 
 
 
-# Burpsuite-Professional − v 2026 − latest
+## Burpsuite-Professional − v 2026 − latest
 
 Step-by-step guide to install Burp Suite Professional on Kali Linux.
 
-# Burp Suite Professional Installation Guide (Kali Linux)
+## Burp Suite Professional Installation Guide (Kali Linux)
 
-## Step 1: Update System Packages
+### Step 1: Update System Packages
 
 Before starting the installation, update the system package list.
 
@@ -18,7 +18,7 @@ sudo apt update
 
 ---
 
-## Step 2: Download JDK 21
+### Step 2: Download JDK 21
 
 1. Open **Firefox**.
 2. Search for **JDK 21**.
@@ -31,7 +31,7 @@ sudo apt update
 
 ---
 
-## Step 3: Install JDK 21
+### Step 3: Install JDK 21
 
 Open the terminal and navigate to the **Downloads** directory.
 
@@ -43,7 +43,7 @@ sudo dpkg -i jdk-21.0.11_linux-x64_bin.deb
 
 ---
 
-## Step 4: Install Burp Suite Professional
+### Step 4: Install Burp Suite Professional
 
 Run the following command in the terminal:
 
@@ -52,7 +52,7 @@ sudo apt update && sudo apt install -y wget && wget -qO- https://raw.githubuserc
 ```
 
 
-## Step 5: Update the License Text
+### Step 5: Update the License Text
 
 In the **License Text** field, replace the default name with your own system or username.
 
@@ -72,7 +72,7 @@ License to dynoking
 
 
 
-## Step 6: Enter the License Key
+### Step 6: Enter the License Key
 
 When the **Enter License Key** window appears, enter your valid Burp Suite Professional license key and click **Next** to continue.
 
@@ -83,7 +83,7 @@ When the **Enter License Key** window appears, enter your valid Burp Suite Profe
 *Figure 6: Enter your Burp Suite Professional license key.*
 
 
-## Step 7: Manual Activation
+### Step 7: Manual Activation
 
 Click **Manual Activation**.
 
@@ -94,7 +94,7 @@ Click **Manual Activation**.
 ![Enter License Key](pic3.jpeg)
 
 
-## Step 8: Copy the Activation Request
+### Step 8: Copy the Activation Request
 
 Copy the data shown under **"Copy the following data into the Activation Request field in your browser."**
 
@@ -105,7 +105,7 @@ Then, paste it into the **Activation Request** field in your browser.
 ![Enter License Key](pic4.jpeg)
 
 
-## Step 9: Paste the Activation Response
+### Step 9: Paste the Activation Response
 
 Copy the data from the **Activation Response** field in your browser.
 
@@ -115,7 +115,7 @@ Then, paste it into the field labeled **"Paste below the data from the Activatio
 
 ![Enter License Key](pic5.jpeg)
 
-## Step 10: Complete the Activation
+### Step 10: Complete the Activation
 
 Once the activation is completed successfully, **Burp Suite Professional** will start and be ready to use.
 
@@ -123,7 +123,7 @@ Once the activation is completed successfully, **Burp Suite Professional** will 
 
 ![Enter License Key](pic6.jpeg)
 
-## Step 11. Run Burp Suite Professional
+### Step 11. Run Burp Suite Professional
 
 Open a terminal and run the following command:
 
