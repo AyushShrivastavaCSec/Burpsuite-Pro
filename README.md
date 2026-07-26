@@ -46,7 +46,8 @@ Run the following command in the terminal:
 sudo apt update && sudo apt install -y wget && wget -qO- https://raw.githubusercontent.com/xiv3r/Burpsuite-Professional/main/install.sh | sudo bash
 ```
 
-### Step 5: Update the License Name
+
+## Step 5: Update the License Name
 
 In the **License Text** field, replace the default name with your own system or username.
 
