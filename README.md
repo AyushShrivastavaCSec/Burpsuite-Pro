@@ -60,7 +60,7 @@ After:
 License to dynoking
 
 ### Output
-![Burp Suite Screenshot](WhatsApp%20Image%202026-07-26%20at%204.35.57%20AM.jpeg)
+![Burp Suite Screenshot](pic1.jpeg)
 
 *Figure 5: Burp Suite Professional initial setup screen.*
 
