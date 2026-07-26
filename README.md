@@ -6,7 +6,6 @@
 
 Step-by-step guide to install Burp Suite Professional on Kali Linux.
 
-
 # Burp Suite Professional Installation Guide (Kali Linux)
 
 ## Step 1: Update System Packages
