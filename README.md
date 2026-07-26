@@ -53,7 +53,6 @@ After launching Burp Suite Professional, complete the initial setup by following
 Once the setup is complete, the application will proceed to the next screen.
 
 ### Output
-
-![Initial Setup Completed](screenshots/step5-output.png)
+![Burp Suite Screenshot](WhatsApp%20Image%202026-07-26%20at%204.35.57%20AM.jpeg)
 
 *Figure 5: Burp Suite Professional initial setup screen.*
