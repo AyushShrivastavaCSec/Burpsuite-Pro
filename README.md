@@ -88,3 +88,34 @@ Click **Manual Activation**.
 
 ![Enter License Key](pic3.jpeg)
 
+
+## Step 8: Copy the Activation Request
+
+Copy the data shown under **"Copy the following data into the Activation Request field in your browser."**
+
+Then, paste it into the **Activation Request** field in your browser.
+
+**Output:**
+
+![Enter License Key](pic4.jpeg)
+
+
+## Step 9: Paste the Activation Response
+
+Copy the data from the **Activation Response** field in your browser.
+
+Then, paste it into the field labeled **"Paste below the data from the Activation Response field in your browser."**
+
+**Output:**
+
+![Enter License Key](pic5.jpeg)
+
+## Step 10: Complete the Activation
+
+Once the activation is completed successfully, **Burp Suite Professional** will start and be ready to use.
+
+**Output:**
+
+![Enter License Key](pic6.jpeg)
+
+
