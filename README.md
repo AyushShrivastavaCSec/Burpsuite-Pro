@@ -63,3 +63,16 @@ License to dynoking
 ![Burp Suite Screenshot](WhatsApp%20Image%202026-07-26%20at%204.35.57%20AM.jpeg)
 
 *Figure 5: Burp Suite Professional initial setup screen.*
+
+
+
+
+## Step 6: Enter the License Key
+
+When the **Enter License Key** window appears, enter your valid Burp Suite Professional license key and click **Next** to continue.
+
+**Output:**
+
+![Enter License Key](screenshots/step6-enter-license-key.png)
+
+*Figure 6: Enter your Burp Suite Professional license key.*
