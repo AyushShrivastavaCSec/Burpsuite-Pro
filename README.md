@@ -46,3 +46,14 @@ Run the following command in the terminal:
 sudo apt update && sudo apt install -y wget && wget -qO- https://raw.githubusercontent.com/xiv3r/Burpsuite-Professional/main/install.sh | sudo bash
 ```
 
+## Step 5: Complete the Initial Setup
+
+After launching Burp Suite Professional, complete the initial setup by following the on-screen instructions.
+
+Once the setup is complete, the application will proceed to the next screen.
+
+### Output
+
+![Initial Setup Completed](screenshots/step5-output.png)
+
+*Figure 5: Burp Suite Professional initial setup screen.*
